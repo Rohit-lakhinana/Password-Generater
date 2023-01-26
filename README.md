@@ -1,2 +1,2 @@
-#Password-Generater
+#Password-Generater 
 password generater using HTML CSS JAVASCRIPT
